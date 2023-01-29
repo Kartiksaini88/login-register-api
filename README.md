@@ -1,6 +1,10 @@
 # login-register-api
 <h3 align="center">This is a simple register and login API</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<a align="left">https://super-slip-goat.cyclic.app/</a>
+<p align="left">Endpoints are - 
+  <ul>/register</ul>
+  <ul>/login</ul>
+  <ul>/user</ul>
+  <ul>/user/id</ul>
 </p>
