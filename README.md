@@ -6,5 +6,5 @@
   <ul>/register</ul>
   <ul>/login</ul>
   <ul>/user</ul>
-  <ul>/user/id</ul>
+  <ul>/user/:id</ul>
 </p>
