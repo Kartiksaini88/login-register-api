@@ -10,7 +10,7 @@ router.post('',async(req,res)=>{
         if(user){
             if(password==user.password){
                 jwt.sign({user},secreteKey,{expiresIn:'500s'},(err,token)=>{
-                    res.send({token})
+                    res.send({token,message:"Login Successfull"})
                 })
             }
             else{
